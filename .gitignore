@@ -16,6 +16,7 @@ _deps
 /.idea/
 *.a
 /docs/
+engine/test
 engine/test/app/test-app
 app/APP
 .venv
